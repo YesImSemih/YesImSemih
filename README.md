@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @YesImSemih
+- 👀 I’m interested in Coding and Computers
+- 🌱 I’m currently learning C# and C++
+- 📫 How to reach me @semihgkstc instagram or thisissemih on discord
+- 😄 Pronouns: He/Him
+- 🏳 Region: Türkiye
+- 💻 Coding Languages: Python, C#, Lua
+- 👅 Languages Speak: Turkish, English
